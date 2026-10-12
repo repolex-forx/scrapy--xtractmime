@@ -1,0 +1,7 @@
+[2026-10-12T06:17:00Z] === AST ITERATION 1 START | repo=scrapy/xtractmime sha=9d50fcb0 ===
+[2026-10-12T06:17:00Z] [iter=1] PHASE START: ast repo=scrapy/xtractmime sha=9d50fcb0
+[2026-10-12T06:17:00Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T06:17:06Z] [iter=1] AST chunks built count=1 triples=54523
+[2026-10-12T06:17:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/9d50fcb0d7abd7a96f7dee746d9285faba4af6db/.complete
+[2026-10-12T06:17:06Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-10-12T06:17:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
