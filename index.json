@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "xtractmime",
+  "versions": [
+    {
+      "commit": "9d50fcb0d7abd7a96f7dee746d9285faba4af6db",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:18:29.882289+00:00"
+    }
+  ]
+}
